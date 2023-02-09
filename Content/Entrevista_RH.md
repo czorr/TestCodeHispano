@@ -34,6 +34,8 @@ Al tener una comprensión clara y completa de los requisitos, **podrás generar 
 
 ### **Situacionales:**
 
+> Ejemplo: "Cuéntame de la última ocasión que te enfrentaste a X reto/situación.
+
  Estas preguntas están orientadas a conocer cómo actuaste en una situación específica en el pasado. Para responder a ellas puedes apoyarte del **método STAR**:
 
     * Situración: Cuál era el contexto del evento y qué se buscaba lograr
@@ -46,6 +48,8 @@ Al tener una comprensión clara y completa de los requisitos, **podrás generar 
 &nbsp;
 
 ### **Hipotéticas:**
+
+> Ejemplo: "En la empresa X, estamos buscando implementar/cambiar Y herramienta. Sin embargo, nos encontramos con algunos retos, ¿Qué sugerencias tienes?¿Qué curso de acción tomarías?
 
 Las preguntas estilo caso evalúan cómo abordarías situaciones específicas. **Para responder efectivamente, plantea preguntas inteligentes que te brinden una visión más clara y completa de la situación.** Busca comprender las necesidades de la empresa y/o el equipo; así como los requisitos técnicos, temporales y económicos. Así podrás generar una mejor respuesta y mostrarte como un perfile calificado. 
  
