@@ -10,6 +10,11 @@ Este proyecto open-source en español te brinda una **guía clara y fácil de se
 * Meta 2:
 * Meta 3:
 
+## Nuestra Filosofía:
+> **We are _Tech People_ placing _Tech People_**
+
+CodeHispano es un ***proyecto vivo***, sustentado en una comunidad de Tech People comprometida en impulsar el éxito profesional de sus miembros. Juntos, creamos un espacio vibrante y colaborativo, donde compartimos experiencias y nos apoyamos mutuamente. Nos enorgullece ser un proyecto en constante crecimiento, impulsado por la energía y el talento de nuestra comunidad.
+
 ## ¿Cómo aprovecharlo al máximo?
 
 Aquí te compartimos algunos tips que podrán ayudarte a obtener el máximo proyecto de Codehispano:
