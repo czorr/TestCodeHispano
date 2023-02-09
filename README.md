@@ -4,16 +4,26 @@
 
 Este proyecto open-source en español te brinda una **guía clara y fácil de seguir para gestionar tus esfuerzos de búsqueda de trabajo**. Además, te acompaña una **comunidad** amigable y comprometida **que comparte sus experiencias y conocimientos** para que todos podamos maximizar nuestras oportunidades de éxito al emplearnos en *tech*.
 
+&nbsp;
+
 ## Metas del proyecto:
 
 * Meta 1: 
 * Meta 2:
 * Meta 3:
 
+&nbsp;
+
 ## Nuestra Filosofía:
 > **We are _Tech People_ placing _Tech People_**
 
+    We are Tech People placing Tech People
+
 CodeHispano es un ***proyecto vivo***, sustentado en una comunidad de Tech People comprometida en impulsar el éxito profesional de sus miembros. Juntos, creamos un espacio vibrante y colaborativo, donde compartimos experiencias y nos apoyamos mutuamente. Nos enorgullece ser un proyecto en constante crecimiento, impulsado por la energía y el talento de nuestra comunidad.
+
+**CodeHispano es de la comunidad y para la comunidad, ¡Háganlo suyo!**
+
+&nbsp;
 
 ## ¿Cómo aprovecharlo al máximo?
 
@@ -27,15 +37,23 @@ Aquí te compartimos algunos tips que podrán ayudarte a obtener el máximo proy
 
 * **Respeta el código de conducta:** Lo más importante de este proyecto es la comunidad, por lo que es importante apegarnos al [código de conducta](https://www.contributor-covenant.org/es/version/2/1/code_of_conduct/) para asegurar la mejor convivencia posible. 
 
+&nbsp;
+
 ## ¿Cómo pedir ayuda?
 
 * Contacta en el canal de Discord "NOMBRE_CANAL"
 * [Levanta un *issue* en GitHub.](https://docs.github.com/es/issues/tracking-your-work-with-issues/creating-an-issue)
 * Escríbenos directamente a *[javier@skills.tech](javier@skills.tech)*
 
+
+&nbsp;
+
 ## ¿Cómo contribuir al proyecto?
 
 Puedes contribuir desde algo tan sencillo como **mantenerte activo en el servidor de Discord** para aportar tu experiencia y conocimientos, **guiando a otros participantes**. Así como puedes proponer cambios mayores con...
+
+
+&nbsp;
 
 ## Licencia
 
