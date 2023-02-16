@@ -8,7 +8,7 @@ Para ello, _**es necesario conocer a fondo los requisitos de la vacante de tu in
 
 ## Planeando tu CV:
 
-### Extensión:
+### **Extensión:**
 
 Normalmente al hacer un CV buscamos reflejar todo nuestro bagaje profesional en él. Sin embargo, los reclutadores reciben cientos de CVs y disponen de poco tiempo para revisarlos, así que _**aquí: menos es más**_. 
 
@@ -16,7 +16,7 @@ Normalmente al hacer un CV buscamos reflejar todo nuestro bagaje profesional en 
 
 &nbsp;
 
-### Secciones:
+### **Secciones:**
 
 Construir tu CV será más sencillo si tienes bien identificadas las piezas necesarias antes de empezar. Para ello, las secciones que más te pueden ayudar a lograr una entrevista para una vacante de tecnología son:
 
@@ -31,18 +31,18 @@ Construir tu CV será más sencillo si tienes bien identificadas las piezas nece
 
 SOLO si lo ves necesario y aún tienes espacio en tu CV, también podrías incluir las siguientes secciones:
 
-* Resumen profesional:
-* Idiomas: Si tienes algún examen de certificación, aquí debes mencionarlo. 
-* Certificaciones y premios:
-* Referencias:
+* **Resumen profesional:** Trata de utilizar una frase impactante que demuestre tu experiencia, pasiones y habilidades alineadas a la vacante. Evita extender el resumen a más de una oración.
+* **Idiomas:** Si no tienes certificaciones oficiales, pero tienes habilidades en un idioma extranjero, es mejor mencionarlo en tus habilidades o en alguna otra sección relevante de tu CV. Si cuentas con certificaciones, basta con mencionar el nombre del examen y la calificación obtenida, sin entrar en detalles innecesarios.
+* **Certificaciones y premios:** Menciona el logro o curso, así como la institución detrás que lo avala . Mejor aún si puedes vincular un URL que lleve al certificado o la evidencia del mismo. 
+* **Referencias:** Lo ideal es dejar claro que las tienes disponibles a solicitud, sin necesidad de añadir más detalles.
 
 &nbsp;
 
-### Palabras / Frases clave:
+### **Palabras / Frases clave:**
 
-Antes de generar tu CV
+Antes de generar tu CV, es de **vital importancia conocer a fondo la vacante y la empresa**. De esta manera podrás generar un banco de palabras y frases clave que te ayuden a mostrarte como un candidato alineado. 
 
-
+Dichas Palabras y Frases son principalmente aquellas que refieren a **actividades/experiencia, habilidades y aptitudes** que está buscando la empresa.
 
 &nbsp;
 
@@ -60,7 +60,7 @@ Para ello:
 &nbsp;
 
 
-## ¿Cómo desarrollar el contenido?
+## ¿Cómo desarrollar el contenido? - En proceso
 
 - Educación / Formación: Nombre del instituto, carrera, promedio si lo piden.
 - Proyectos: Descripción breve, tech usada y resultados
@@ -84,9 +84,9 @@ Para ello:
 
 ## Revisa y valida antes de enviar:
 
-1. Lectura previa: Nunca está de más darle una última leída a fondo para detectar errores y áreas de mejora. 
-2. Pedir Feedback: 
-3. Evalúalo en línea: Existen diferentes páginas donde podrás poner a prueba tu CV, ver su puntaje de impacto, así como algunas recomendaciones para mejorarlo. Una de ellas es **[Resume Worded](resumeworded.com).**
+1. Lectura previa: Revisa tu CV a fondo antes de enviarlo para detectar errores
+2. Pedir Feedback: Aprovecha a la comunidad de CodeHispano accediendo al [canal de Feedback para CVs](discord.com). Recuerda recibir la retroalimentación de manera crítica y objetiva para seguir mejorando tu CV. 
+3. Evalúalo en línea: Existen diferentes páginas donde podrás poner a prueba tu CV y obtener su puntaje, así como algunas recomendaciones para mejorarlo. Una de ellas es **[Resume Worded](resumeworded.com).**
 
 
 &nbsp;
