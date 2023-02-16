@@ -20,11 +20,11 @@ Normalmente al hacer un CV buscamos reflejar todo nuestro bagaje profesional en 
 
 Construir tu CV será más sencillo si tienes bien identificadas las piezas necesarias antes de empezar. Para ello, las secciones que más te pueden ayudar a lograr una entrevista para una vacante de tecnología son:
 
-* Experiencia profesional:
-* Proyectos:
-* Herramientas de software:
-* Aptitudes y habilidades:
-* Formación / Eduación:
+* Experiencia profesional: Esta es una de las secciones más importantes, donde podrás mostrar tu experiencia previa. Más adelante se detalla cómo desarrollar esta sección. 
+* Proyectos: Selecciona algunos proyectos de tu portafolio donde demuestres habilidades clave que están buscando para la vacante.
+* Herramientas de software: Aquí puedes enlistar todos los lenguajes de programación, librerías, _frameworks_ o softwares en general que utilices. 
+* Aptitudes y habilidades: Aquí entran las _soft skills_.
+* Formación / Eduación.
 
 
 &nbsp;
