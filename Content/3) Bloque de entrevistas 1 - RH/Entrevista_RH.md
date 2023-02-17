@@ -5,7 +5,7 @@
 
 La entrevista de Recursos Humanos es **tu primera oportunidad para impresionar en cualquier proceso de selección**. 
 
-Aquí los reclutadores buscarán conocer más de ti como profesional y como persona; siendo este un espacio ideal para **demostrar que, además de habilidades técnicas, también cuentas con _soft skills_[^1]:** que te permitirán destacarte en el rol y superar expectativas. 
+Aquí los reclutadores buscarán conocer más de ti como profesional y como persona; siendo este un espacio ideal para **demostrar que, además de habilidades técnicas, también cuentas con _soft skills_[^1]** que te permitirán destacarte en el rol y superar expectativas. 
 
 &nbsp;
 
@@ -15,7 +15,7 @@ Aquí los reclutadores buscarán conocer más de ti como profesional y como pers
 
 Durante la primera entrevista con Recursos Humanos, se busca **establecer la compatibilidad de tu perfil con la vacante.**
 
-**IMPORTANTE**: Previo la entrevista estudia a fondo la vacante, identifica los requisitos y asegúrate de que tu perfil encaje con ellos de manera sólida (cuando menos con el 70%).
+**IMPORTANTE**: Previo la entrevista estudia a fondo la vacante, identifica los requisitos y asegúrate de que tu perfil encaje con ellos de manera sólida (cuando menos con el 70%). Adicionalmente puedes investigar un poco sobre el entrevistador/a y preparar preguntar relevantes.
 
 Al tener una comprensión clara y completa de los requisitos, **podrás generar respuestas que te muestren como un candidato alineado a dichos requisitos, sobresaliendo en el proceso.** 
 
@@ -62,9 +62,9 @@ Las preguntas estilo caso evalúan cómo abordarías situaciones específicas. *
 
 1. **Practica en comunidad:** Utiliza la comunidad de CodeHispano para mejorar tus habilidades y aumentar tus posibilidades de éxito en la entrevista.
 2. **Pide ayuda a tu reclutador:** El reclutador quiere que tú consigas el trabajo, no tengas miedo de pedirle sugerencias, recursos de preparación, conocer sus expectativas y pedir retroalimentación.
-3. **Toma notas:** Prepara notas como recurso para recordar los requisitos de la vacante, pero no los uses como un guión, sino como un apoto para tener una conversación fluida.
+3. **Toma notas:** Prepara notas como recurso para recordar los requisitos de la vacante, pero no los uses como un guión, sino como un apoyo para tener una conversación fluida.
 4. **Haz preguntas:** Si tienes dudas, pregunta para asegurarte de comprender bien lo que te están comunicando. Es mejor hacer preguntas que dar respuestas equivocadas.
-5. **Anota información:** Durante la entrevista, aprende sobre expectativas y requisitos no publicados para tener una ventaja en las siguientes fases.
+5. **Lleva una minuta:** Durante la entrevista, aprende sobre expectativas y requisitos no publicados para tener una ventaja en las siguientes fases.
 
 
 &nbsp;
@@ -94,4 +94,4 @@ Las preguntas estilo caso evalúan cómo abordarías situaciones específicas. *
 
 &nbsp;
 
-[^1]: Dependiendo el nivel de expertiz en la vacante, se va volviendo más importante el demostrar habilidades de comunicación efectiva, toma de decisiones, resolución de conflictos y sobre todo **liderazgo**. 
+[^1]: Dependiendo el nivel de expertise en la vacante, se torna más importante el demostrar habilidades de comunicación efectiva, toma de decisiones, resolución de conflictos y sobre todo **liderazgo**. 
